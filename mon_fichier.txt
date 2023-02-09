@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Sami a écrit sur le fichier
-
 Le main écrit une ligne
-=======
-
->>>>>>> 6e582a826ce7510ad069cbba53c2a3cc85ac278e
